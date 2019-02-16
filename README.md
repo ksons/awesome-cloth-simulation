@@ -19,6 +19,9 @@ Contributions are welcome!
 ## Literature
 
 ### Papers
+- Weil, Jerry. ["The synthesis of cloth objects."](https://www.cs.drexel.edu/~david/Classes/Papers/p49-weil.pdf) ACM Siggraph Computer Graphics 20.4 (1986)
+
+- Feynman, Carl Richard. [Modeling the appearance of cloth](https://dspace.mit.edu/handle/1721.1/14924#files-area). Diss. Massachusetts Institute of Technology, 1986.
 
 ### Books
 - [Cloth Simulation for Computer Graphics](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?cPath=22&products_id=1295) by [Tuur Stuyck](https://tuurstuyck.github.io/)- Book(let) that gives concise explanations of common cloth simulation techniques and gives pointers to more advanced techniques.
